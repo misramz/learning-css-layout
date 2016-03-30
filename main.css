@@ -1,0 +1,18 @@
+.container {
+  width: 400px;
+  border: 3px solid pink;
+  padding: 0 10px;
+  margin-top: 125px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+footer {
+  width: 400px;
+  margin: 20px auto;
+  background-color: pink;
+  color: black;
+  text-align: center;
+  padding: 0 10px
+
+}
